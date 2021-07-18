@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-15T19:58:05 IST" name="Default suite" finished-at="2021-07-15T19:58:08 IST" duration-ms="2897">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T19:58:05 IST" name="Default test" finished-at="2021-07-15T19:58:08 IST" duration-ms="2897">
+      <class name="TC001_WeatherApi_Get">
+        <test-method signature="getweatherDeatils()[pri:0, instance:TC001_WeatherApi_Get@1cbbffcd]" started-at="2021-07-15T19:58:05 IST" name="getweatherDeatils" finished-at="2021-07-15T19:58:08 IST" duration-ms="2844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDeatils -->
+      </class> <!-- TC001_WeatherApi_Get -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
